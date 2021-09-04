@@ -1,0 +1,17 @@
+.row{
+    display: flex
+}
+
+#board{
+    border: 1px solid black;
+    width: fit-content;
+}
+
+.box{
+    height: 20px;
+    width: 20px;
+}
+
+h1{
+    background-color: red;
+}
